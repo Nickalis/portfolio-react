@@ -19,7 +19,7 @@ function Gretting() {
                     </ul>
                 </div>
             <div className="left-colum">
-
+                <h1>About Me</h1>
             </div>
             </div>
         </div>
